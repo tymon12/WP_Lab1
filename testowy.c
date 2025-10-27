@@ -1,7 +1,14 @@
 #include <stdio.h>
+int x=1;
+void funkcja();
+    printf(x);
+
+
+
 
 int main() {
-    printf("elo World!\n");
+    funkcja();
+    printf("lol \n");
     
     return 0;
 }
